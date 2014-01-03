@@ -217,6 +217,21 @@ i.scroll {
 i.scroll:hover {
   color: #0a5175;
 }
+
+.fa-facebook
+{
+	color:#3b5998;
+}
+.fa-twitter
+{
+	color:#00c0f7;
+}
+.fa-google-plus
+{
+	color:#b73223;
+}
+
+
 /* Responsive */
 
 @media (max-width: 768px) {
